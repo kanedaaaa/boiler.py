@@ -8,4 +8,6 @@ I.e option "node.js" will generate javascript folder with `src`, `package.json` 
 `index.js` as an entry point. Typescript will setup `ts-node` or `tsc` stuff, write 
 `tsconfig.json`, some deps for testing, etc. You get the point. 
 
-It's for my preferences only. 
+It's for my preferences only. And yes, despite fact that this is written mainly for 
+javascript ecosystem, i chose to write it in Python because i kinda like Python. It's
+cool, in its own way ;/
