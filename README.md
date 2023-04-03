@@ -1,5 +1,7 @@
 # Boiler
 
+![this guy](https://i.pinimg.com/originals/55/29/71/55297193cbe36f1dffb025e3615950da.jpg)
+
 Boiler is an interactive CLI app written in Python. It's main purpose is to generate
 "boilerplates" for me. I know there are some alternatives, but none of them matches
 what i want. 
